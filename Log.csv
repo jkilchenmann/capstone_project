@@ -1,4 +1,8 @@
 Number,Date,Flight number,From,To,Distance,Dep time,Arr time,Duration,Airline,Aircraft,Registration,Seat number
+1127,06/10/2025,1234,Dallas-Ft Worth / Dallas-Ft Worth (DFW/KDFW),Milwaukee / Gen Mitchell (MKE/KMKE),854,21:20:00,23:11:00,01:51:00,American Airlines (AA/AAL),Airbus A320-200 (A320),N668AW,22D
+1126,06/10/2025,6410,Austin / Bergstrom International (AUS/KAUS),Dallas-Ft Worth / Dallas-Ft Worth (DFW/KDFW),190,17:54:00,18:38:00,00:44:00,SkyWest Airlines (OO/SKW),Bombardier CRJ-700 (CRJ7),N752SK,11B
+1125,06/10/2025,2931,Dallas-Ft Worth / Dallas-Ft Worth (DFW/KDFW),Austin / Bergstrom International (AUS/KAUS),190,12:32:00,13:22:00,00:50:00,American Airlines (AA/AAL),Boeing 737-800 (B738),N832NN,32D
+1124,06/10/2025,2621,Milwaukee / Gen Mitchell (MKE/KMKE),Dallas-Ft Worth / Dallas-Ft Worth (DFW/KDFW),854,06:27:00,08:38:00,02:11:00,American Airlines (AA/AAL),Airbus A320-200 (A320),N601AW,26C
 1123,05/30/2025,2348,Minneapolis / St Paul (MSP/KMSP),Madison / Dane Co Regl-Truax Fld (MSN/KMSN),228,23:22:00,00:03:00,00:41:00,Delta Air Lines (DL/DAL),Airbus A220-300 (BCS3),N329DU,26A
 1122,05/30/2025,1303,Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),Minneapolis / St Paul (MSP/KMSP),528,20:01:00,20:16:00,01:15:00,Delta Air Lines (DL/DAL),Airbus A350-900 (A359),N511DN,50J
 1121,05/30/2025,3919,Kalamazoo / Battle Creek (AZO/KAZO),Detroit / Detroit Metropolitan Wayne Co (DTW/KDTW),113,18:16:00,18:41:00,00:25:00,SkyWest Airlines (OO/SKW),Bombardier CRJ-900 (CRJ9),N831SK,16A
