@@ -6,14 +6,17 @@ Additional details will be added to the readme as the project progresses.
 
 Establishing a Virtual Environment
 
-```python -m venv venv
+```shell
+python -m venv venv
 ```
 
 Activating the Virtual Environment
-```venv\Scripts\activate
+```shell
+venv\Scripts\activate
 ```
 
 Installing Dependencies
-```pip install -r requirements.txt
+```shell
+pip install -r requirements.txt
 ```
 
