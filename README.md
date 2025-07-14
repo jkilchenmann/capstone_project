@@ -4,6 +4,8 @@ This project involves the creation of a machine learning model to determine whet
 
 Additional details will be added to the readme as the project progresses.
 
+## Instructions for Using Code
+
 Establishing a Virtual Environment
 
 ```shell
