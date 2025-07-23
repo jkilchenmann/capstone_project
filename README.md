@@ -16,8 +16,6 @@ An additional listing of 20 flights was generated for flights occurring on July 
 
 ### To work with the dataset in a virtual environment:
 
-## Instructions for Using Code
-
 Establishing a Virtual Environment
 
 ```shell
