@@ -16,17 +16,22 @@ An additional listing of 20 flights was generated for flights occurring on July 
 
 ### To work with the dataset in a virtual environment:
 
+## Instructions for Using Code
+
 Establishing a Virtual Environment
 
-```python -m venv venv
+```shell
+python -m venv venv
 ```
 
 Activating the Virtual Environment
-```venv\Scripts\activate
+```shell
+venv\Scripts\activate
 ```
 
 Installing Dependencies
-```pip install -r requirements.txt
+```shell
+pip install -r requirements.txt
 ```
 
 Use Jupyter Notebook to view the code and results.
