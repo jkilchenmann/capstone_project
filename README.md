@@ -4,9 +4,9 @@ This project involves the creation of a machine learning model to determine whet
 
 ## Details of Project
 
-The model was trained using a dataset of 1,127 flights the author personally completed during the period from June 15, 2004 to June 10, 2025.  The original dataset is contained in [Log.csv](./Log.csv).
+The model was trained using a dataset of 1,127 flights the author personally completed during the period from June 15, 2004 to June 10, 2025.  The original dataset is contained in [flightdiary_2025_06_23_25_39.csv](./flightdiary_2025_06_23_25_39.csv).
 
-The original dataset was cleaned to remove excess information that did not factor into the analysis.  That dataset is contained in [flightdiary_2025_06_23_25_39.csv](./flightdiary_2025_06_23_25_39.csv).
+The original dataset was cleaned to remove excess information that did not factor into the analysis.  That dataset is contained in [log_cleaned.csv](./log_cleaned.csv).
 
 The dataset was reviwed to determine basic statistical information, such as the most common departure airports and how many unique destinations each of those airports had.  This can be viewed in [review_of_data.ipynb](./review_of_data.ipynb).
 
